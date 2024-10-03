@@ -1,0 +1,37 @@
+[
+  {
+    "icon": "/assets/qas.png",
+    "backgroundColor": "#ff2d55",
+    "title": "Drag left to archive",
+    "paragraph": "Unread messages appear in a stack of cards, like this.",
+    "imageUrl": "/assets/archive.png.png",
+    "color": "white"
+  },
+  {
+    "icon": "/assets/dsd.png",
+    "backgroundColor": "black",
+    "title": "Drag right to keep",
+    "paragraph": "Or create your own custom workflow.",
+    "imageUrl": "/assets/keep.png.png",
+    "color": "white"
+
+  },
+  {
+    "icon": "/assets/full.png",
+    "backgroundColor": "#ffb800",
+    "title": "Tap to expand",
+    "paragraph": "Open the message to view the whole thread.",
+    "imageUrl": "/assets/expand.png.png",
+    "color": "black"
+
+  },
+  {
+    "icon": "/assets/arr.png",
+    "backgroundColor": "#7000ff",
+    "title": "Reply in context",
+    "paragraph": "Send a quick reply without leaving the app.",
+    "imageUrl": "/assets/reply.png.png",
+    "color": "white"
+
+  }
+]

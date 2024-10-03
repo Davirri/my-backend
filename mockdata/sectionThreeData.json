@@ -1,0 +1,72 @@
+{
+  "boxes1": [
+    {
+      "icon": "/assets/ema.png",
+      "backgroundColor": "#007aff",
+      "paragraph": "Works with Gmail,iCloud & IMAP",
+      "color": "white"
+    },
+    {
+      "icon": "/assets/rt.png",
+      "backgroundColor": "#ffb800",
+      "paragraph": "All processing happens on device",
+      "color": "black"
+    },
+    {
+      "icon": "/assets/svgd.png",
+      "backgroundColor": "#ff2d55",
+      "paragraph": "Your data is yours to stay",
+      "color": "white"
+    },
+    {
+      "icon": "/assets/Frame.png",
+      "backgroundColor": "black",
+      "paragraph": "Supports dark mode",
+      "color": "white"
+    },
+    {
+      "icon": "/assets/f.png",
+      "backgroundColor": "#7000ff",
+      "paragraph": "Free to use. Or pay for more features.",
+      "color": "white"
+    },
+    {
+      "icon": "/assets/svg.png",
+      "backgroundColor": "#ffffff",
+      "paragraph": "Built & maintained by indie developers",
+      "color": "black"
+    }
+  ],
+  "boxes2": [
+    {
+      "icon": "/assets/daring-fireball.png.png",
+      "paragraph": "Since I’ve been using Triage, I’m more caught up on my email than I have been in years.",
+      "backgroundColor": "#f2f2f2"
+    },
+    {
+      "icon": "/assets/the-verge.svg.png",
+      "paragraph": "If you're constantly battling to keep your email account at inbox zero, Triage for iOS could be worth a look.",
+      "backgroundColor": "#f2f2f2"
+    },
+    {
+      "icon": "/assets/macworld.svg.png",
+      "paragraph": "Triage makes it feel seamless, and even fun, to achieve — if not Inbox Zero — at least Inbox Zen.",
+      "backgroundColor": "#f2f2f2"
+    },
+    {
+      "icon": "/assets/maclife.png.png",
+      "paragraph": "Triage provides the first aid necessary to get your inbox back in fighting shape.",
+      "backgroundColor": "#f2f2f2"
+    },
+    {
+      "icon": "/assets/clean-email.png.png",
+      "paragraph": "Triage is a boon to those who have struggled to keep their inboxes clean and organized.",
+      "backgroundColor": "#f2f2f2"
+    },
+    {
+      "icon": "/assets/macstories.png.png",
+      "paragraph": "Triage is my new favorite email app for iPhone.",
+      "backgroundColor": "#f2f2f2"
+    }
+  ]
+}
